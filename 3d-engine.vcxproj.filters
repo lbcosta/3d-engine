@@ -22,4 +22,17 @@
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="shader.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shaders\vertex.glsl">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="shaders\fragment.glsl">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+  </ItemGroup>
 </Project>
